@@ -30,4 +30,12 @@ Welcome to my GitHub profile, where I love to code, collaborate, and learn.
 
 Happy coding! 🚀
 
-[🤝LinkedIn](https://www.linkedin.com/in/muzallyefah)  [🖋️LeetCode](https://leetcode.com/muzalee)  [🤖LabLab.ai](https://lablab.ai/u/@muzalee332)  [🚀Codepen](https://codepen.io/muzalee)  [📚W3School](https://www.w3profile.com/muzalee)  [👾 freeCodeCamp](https://www.freecodecamp.org/muzalee)
+<p align="center">
+  <a target="_blank" href="https://linkedin.com/in/muzallyefah"><img src="https://img.shields.io/badge/-Muzallyefah%20Fadli-4E5A66?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a target="_blank" href="mailto:muzallyefah@gmail.com"><img src="https://img.shields.io/badge/-eMail-4E5A66?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://leetcode.com/muzalee"><img src="https://img.shields.io/badge/-Leetcode-4E5A66?style=flat&logo=Leetcode&logoColor=white"/></a>
+  <a target="_blank" href="https://lablab.ai/u/@muzalee332"><img src="https://img.shields.io/badge/-LabLab.ai-4E5A66?style=flat&logo=joomla&logoColor=white"/></a>
+  <a target="_blank" href="https://codepen.io/muzalee"><img src="https://img.shields.io/badge/-CodePen-4E5A66?style=flat&logo=codepen&logoColor=white"/></a>
+  <a target="_blank" href="https://www.w3profile.com/muzalee"><img src="https://img.shields.io/badge/-w3school-4E5A66?style=flat&logo=webtrees&logoColor=white"/></a>
+  <a target="_blank" href="https://www.freecodecamp.org/muzalee"><img src="https://img.shields.io/badge/-freeCodeCamp-4E5A66?style=flat&logo=freecodecamp&logoColor=white"/></a>
+</p>
