@@ -6,15 +6,27 @@ Welcome to my GitHub profile, where I love to code, collaborate, and learn.
 - 💡 Exploring new tech stacks and frameworks
 
 ## My GitHub Stats 📈
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muzalee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&custom_title=I+Code,+Therefore+I+Am"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muzalee&theme=dracula&hide_border=true"/>  
-</p>
+<table>
+  <tr>
+    <td>
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muzalee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&custom_title=I+Code,+Therefore+I+Am"/>
+    </td>
+    <td> 
+        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=muzalee&theme=dracula&hide_border=true"/>  
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzalee&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=dracula"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=muzalee&theme=nord&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6"/>  
-</p>
+<table>
+  <tr>
+    <td>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzalee&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=dracula"/>
+    </td>
+    <td> 
+        <img height="170em" src="https://github-profile-trophy.vercel.app/?username=muzalee&theme=nord&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6"/>  
+    </td>
+  </tr>
+</table>
 
 Happy coding! 🚀
 
