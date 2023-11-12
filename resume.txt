@@ -1,0 +1,105 @@
+               Siti Muzallyefah Mohamad Fadli                    Application Developer
+                    muzallyefah@gmail.com     +60172151738     https://muzalee.github.io
+
+
+Education
+
+Bachelor Degree in Computer Science and Information                                   09/2017 – 01/2021
+Technology (Information Security),
+University Tun Hussein Onn Malaysia
+Academic
+ •3.87 CGPA
+ •Consistent Dean Lister
+Programs Developed
+ •Airline Ticketing System Using C++
+ •Android Chatting Application with Authenticated Encryption Algorithm
+ •File Encryption Storage Software
+
+
+Professional Experience
+
+Deux Alpha Tech Sdn Bhd,                                                              06/2023 – present
+Mobile Application and Laravel Developer
+ •Develop mobile application using Flutter framework
+ •Develop Web system with Laravel, vue.js, bootstrap and tailwind
+ •Involved in the development of Pet Insurance website in collaboration with Etiqa
+ •Use Bitbucket as code versioning tools
+
+Exitando Sdn Bhd
+     Senior Application Developer (Mobile App - Flutter)                               07/2022 – 05/2023
+      •Led team members in the development of mobile applications
+      •Translate basic design into full application frameworks and delegating project components to team
+       members
+
+     Application Developer (Mobile App - Flutter)                                      11/2021 – 06/2022
+      •Designed and developed mobile applications from scratch using Flutter
+      •Involved in the entire software development process for the project
+      •Used Restful API services for retrieving and updating data usually in JSON format
+      •Fixed bugs and error in applications
+      •Integrate with SOAP API in XML format
+
+TimeTec Cloud Sdn Bhd, Mobile Application Developer                                   02/2021 – 10/2021
+ •Developed new modules for existing iOS Applications
+ •Integrating iOS Application with Webservice
+ •Fixed bugs and performance issue on iOS Applications
+ •Used GitLab as code versioning tool
+
+Interax, Software Engineer                                                            08/2022 – present
+ •Work remotely as full stack developer
+ •Developed myEasyProg (https://myeasyprog.my) online learning system
+ •Developed Sight Reader application to assist visually impaired person
+ •Working on AI based eLearning platform
+
+Freelance                                                                             01/2020 – 01/2021
+ •Developed multiple mobile, web and .net applications including the followings:
+muzallyefah@gmail.com                                                                             1 / 2
+   •Room Booking Android Application
+   •E-Bakery Online Ordering Android Application
+   •Motion Detection Application integrated with Arduino Uno
+   •Student Merit Web-Based System
+   •Student Merit Mobile Application
+   •Web-Based Health Consult System
+   •Queuing Application using Flutter for Health Consult System
+   •Results and CGPA Management Android Application
+   •MP4 Repair Software
+   •Student Management Application with Fingerprint Authentication
+   Task Monitoring Android Application
+   •
+
+
+
+
+   Visitor Management Android Application
+   •
+
+
+
+
+Certificates
+
+Cisco CCNA Routing and Switching: Introduction to Networks | Autopsy Basics and Hands On
+
+Cisco CCNAv7: Bridging | Cisco Cybersecurity Essentials | Cisco Introduction to Cybersecurity
+
+Cisco Introduction to IoT | Cisco Introduction to Packet Tracker | NDG Linux Essentials
+
+JavaScript Algorithms and Data Structures
+(https://www.freecodecamp.org/certification/muzalee/javascript-algorithms-and-data-structures)
+
+
+Skills
+
+Software and Technologies (Flutter, REST API, Google Map, Google Analytics, Push Notification, SOAP
+API, Git, Laravel, Mantine)
+
+Programming Language (Dart, Swift, Objective-C, Java, C#, PHP, HTML5, C, C++, ASP.Net, VB.Net,
+JavaScript, Typescript, Node.js)
+
+Information Security (Encryption, Cryptanalysis, Steganography, Digital Watermarking, Digital
+Forensic, Authenticated Encryption)
+
+
+
+
+muzallyefah@gmail.com                                                                            2 / 2
+
